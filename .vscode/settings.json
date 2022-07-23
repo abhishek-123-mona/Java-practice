@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "super",
+        "polymorphism",
+        "norml",
+        "know",
+        "constucter.java",
+        "Throw",
+        "Threading",
+        "Practice",
+        "Interface",
+        "Genericclass",
+        "Exception",
+        "Enum",
+        "Encapsulation",
+        "Assertion",
+        "Array/Generic",
+        "Array/ArrayMethon",
+        "Array",
+        "Anonymous",
+        "AccesMOdifier",
+        "Abstract",
+        "jdbc"
+    ]
+}
